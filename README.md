@@ -8,6 +8,7 @@ A PowerShell application that retrieves detailed Pokemon information from the [P
 - Internet connection (to access PokeAPI)
 - No additional modules required (uses built-in `Invoke-RestMethod`)
 
+<<<<<<< HEAD
 ## Installation
 
 1. Clone or download the repository:
@@ -156,3 +157,8 @@ For issues or questions:
 **Last Updated**: February 15, 2026  
 **PowerShell Version**: 5.1+  
 **API**: PokeAPI v2
+=======
+This is the Description of the readme file
+on github
+This is the Description of the readme file Testtt
+>>>>>>> 021d4048ba7b53dc4584b79f7d0a71e68e1a3099
